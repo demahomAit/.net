@@ -1,0 +1,444 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|c:\\users\\pc\\desktop\\github\\andalusrestaurant\\andalusrestaurant\\views\\ingredient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|solutionrelative:andalusrestaurant\\views\\ingredient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|c:\\users\\pc\\desktop\\github\\andalusrestaurant\\andalusrestaurant\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|solutionrelative:andalusrestaurant\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|c:\\users\\pc\\desktop\\github\\andalusrestaurant\\andalusrestaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|solutionrelative:andalusrestaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|c:\\users\\pc\\desktop\\github\\andalusrestaurant\\andalusrestaurant\\controllers\\ingredientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|solutionrelative:andalusrestaurant\\controllers\\ingredientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|c:\\users\\pc\\desktop\\github\\andalusrestaurant\\andalusrestaurant\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|solutionrelative:andalusrestaurant\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|c:\\users\\pc\\desktop\\github\\andalusrestaurant\\andalusrestaurant\\models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|solutionrelative:andalusrestaurant\\models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|c:\\users\\pc\\desktop\\github\\andalusrestaurant\\andalusrestaurant\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|solutionrelative:andalusrestaurant\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|c:\\users\\pc\\desktop\\github\\andalusrestaurant\\andalusrestaurant\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|solutionrelative:andalusrestaurant\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|c:\\users\\pc\\desktop\\github\\andalusrestaurant\\andalusrestaurant\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|solutionrelative:andalusrestaurant\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|c:\\users\\pc\\desktop\\github\\andalusrestaurant\\andalusrestaurant\\models\\queryoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|solutionrelative:andalusrestaurant\\models\\queryoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|c:\\users\\pc\\desktop\\github\\andalusrestaurant\\andalusrestaurant\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|solutionrelative:andalusrestaurant\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|c:\\users\\pc\\desktop\\github\\andalusrestaurant\\andalusrestaurant\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|solutionrelative:andalusrestaurant\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|c:\\users\\pc\\desktop\\github\\andalusrestaurant\\andalusrestaurant\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|solutionrelative:andalusrestaurant\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Data\\Migrations\\20241223140429_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AndalusRestaurant\\Data\\Migrations\\20241223140429_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|c:\\users\\pc\\desktop\\github\\andalusrestaurant\\andalusrestaurant\\models\\productingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|solutionrelative:andalusrestaurant\\models\\productingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|c:\\users\\pc\\desktop\\github\\andalusrestaurant\\andalusrestaurant\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|solutionrelative:andalusrestaurant\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|c:\\users\\pc\\desktop\\github\\andalusrestaurant\\andalusrestaurant\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|solutionrelative:andalusrestaurant\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|c:\\users\\pc\\desktop\\github\\andalusrestaurant\\andalusrestaurant\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|solutionrelative:andalusrestaurant\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|c:\\users\\pc\\desktop\\github\\andalusrestaurant\\andalusrestaurant\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|solutionrelative:andalusrestaurant\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|c:\\users\\pc\\desktop\\github\\andalusrestaurant\\andalusrestaurant\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|solutionrelative:andalusrestaurant\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|c:\\users\\pc\\desktop\\github\\andalusrestaurant\\andalusrestaurant\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|solutionrelative:andalusrestaurant\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|c:\\users\\pc\\desktop\\github\\andalusrestaurant\\andalusrestaurant\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|solutionrelative:andalusrestaurant\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|c:\\users\\pc\\desktop\\github\\andalusrestaurant\\andalusrestaurant\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|solutionrelative:andalusrestaurant\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|c:\\users\\pc\\desktop\\github\\andalusrestaurant\\andalusrestaurant\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|solutionrelative:andalusrestaurant\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|c:\\users\\pc\\desktop\\github\\andalusrestaurant\\andalusrestaurant\\data\\migrations\\20241223145653_addedimageurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|solutionrelative:andalusrestaurant\\data\\migrations\\20241223145653_addedimageurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|c:\\users\\pc\\desktop\\github\\andalusrestaurant\\andalusrestaurant\\data\\migrations\\20241223144744_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51DF03A-B4F6-426A-AB97-63E0935A1A0F}|AndalusRestaurant\\AndalusRestaurant.csproj|solutionrelative:andalusrestaurant\\data\\migrations\\20241223144744_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Views\\Ingredient\\Index.cshtml",
+              "RelativeDocumentMoniker": "AndalusRestaurant\\Views\\Ingredient\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Views\\Ingredient\\Index.cshtml*",
+              "RelativeToolTip": "AndalusRestaurant\\Views\\Ingredient\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T13:17:54.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AndalusRestaurant\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AndalusRestaurant\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T13:16:14.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IngredientController.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Controllers\\IngredientController.cs",
+              "RelativeDocumentMoniker": "AndalusRestaurant\\Controllers\\IngredientController.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Controllers\\IngredientController.cs",
+              "RelativeToolTip": "AndalusRestaurant\\Controllers\\IngredientController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:49:06.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QueryOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Models\\QueryOptions.cs",
+              "RelativeDocumentMoniker": "AndalusRestaurant\\Models\\QueryOptions.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Models\\QueryOptions.cs",
+              "RelativeToolTip": "AndalusRestaurant\\Models\\QueryOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:05:00.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AndalusRestaurant\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\appsettings.Development.json",
+              "RelativeToolTip": "AndalusRestaurant\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T13:00:02.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\appsettings.json",
+              "RelativeDocumentMoniker": "AndalusRestaurant\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\appsettings.json",
+              "RelativeToolTip": "AndalusRestaurant\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T13:54:45.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Models\\IRepository.cs",
+              "RelativeDocumentMoniker": "AndalusRestaurant\\Models\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Models\\IRepository.cs",
+              "RelativeToolTip": "AndalusRestaurant\\Models\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:59:03.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Program.cs",
+              "RelativeDocumentMoniker": "AndalusRestaurant\\Program.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Program.cs",
+              "RelativeToolTip": "AndalusRestaurant\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:23:13.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Models\\Repository.cs",
+              "RelativeDocumentMoniker": "AndalusRestaurant\\Models\\Repository.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Models\\Repository.cs",
+              "RelativeToolTip": "AndalusRestaurant\\Models\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:11:57.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241223145653_AddedImageUrl.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Data\\Migrations\\20241223145653_AddedImageUrl.cs",
+              "RelativeDocumentMoniker": "AndalusRestaurant\\Data\\Migrations\\20241223145653_AddedImageUrl.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Data\\Migrations\\20241223145653_AddedImageUrl.cs",
+              "RelativeToolTip": "AndalusRestaurant\\Data\\Migrations\\20241223145653_AddedImageUrl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:56:53.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Models\\Ingredient.cs",
+              "RelativeDocumentMoniker": "AndalusRestaurant\\Models\\Ingredient.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Models\\Ingredient.cs",
+              "RelativeToolTip": "AndalusRestaurant\\Models\\Ingredient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:20:15.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "AndalusRestaurant\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Models\\Product.cs",
+              "RelativeToolTip": "AndalusRestaurant\\Models\\Product.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:15:49.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20241223144744_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Data\\Migrations\\20241223144744_Initial.cs",
+              "RelativeDocumentMoniker": "AndalusRestaurant\\Data\\Migrations\\20241223144744_Initial.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Data\\Migrations\\20241223144744_Initial.cs",
+              "RelativeToolTip": "AndalusRestaurant\\Data\\Migrations\\20241223144744_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:47:44.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241223140429_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Data\\Migrations\\20241223140429_InitialCreate.cs",
+              "RelativeDocumentMoniker": "AndalusRestaurant\\Data\\Migrations\\20241223140429_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Data\\Migrations\\20241223140429_InitialCreate.cs",
+              "RelativeToolTip": "AndalusRestaurant\\Data\\Migrations\\20241223140429_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:04:29.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AndalusRestaurant\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AndalusRestaurant\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:02:09.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "AndalusRestaurant\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Models\\Order.cs",
+              "RelativeToolTip": "AndalusRestaurant\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:05:10.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "AndalusRestaurant\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Models\\OrderItem.cs",
+              "RelativeToolTip": "AndalusRestaurant\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:11:32.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "AndalusRestaurant\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Models\\Category.cs",
+              "RelativeToolTip": "AndalusRestaurant\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:18:07.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "AndalusRestaurant\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "AndalusRestaurant\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:01:23.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductIngredient.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Models\\ProductIngredient.cs",
+              "RelativeDocumentMoniker": "AndalusRestaurant\\Models\\ProductIngredient.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Models\\ProductIngredient.cs",
+              "RelativeToolTip": "AndalusRestaurant\\Models\\ProductIngredient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:19:22.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AndalusRestaurant\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AndalusRestaurant\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAADwv2UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:21:20.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AndalusRestaurant\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AndalusRestaurant\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T14:02:45.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AndalusRestaurant\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AndalusRestaurant\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T14:02:44.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "AndalusRestaurant\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "AndalusRestaurant\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T14:02:42.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "AndalusRestaurant\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "AndalusRestaurant\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T14:02:40.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "AndalusRestaurant\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\github\\AndalusRestaurant\\AndalusRestaurant\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "AndalusRestaurant\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T13:22:34.544Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
